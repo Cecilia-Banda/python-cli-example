@@ -4,5 +4,7 @@
       - main
   pull_request:
  
+  on:
+  workflow_dispatch:
 
           
